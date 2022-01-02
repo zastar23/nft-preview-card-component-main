@@ -98,8 +98,3 @@ hr {
     color: cyan;
 }
 
-@media (min-width: 1000px) {
-    .hero {
-        margin: 25% auto;
-    }
-}
