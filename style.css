@@ -1,0 +1,105 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    font-family: Outfit;
+    box-sizing: border-box;
+}
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+.hero {
+    background-color: hsl(216, 50%, 16%);
+    color: white;
+    width: 90%;
+    margin: 1em auto;
+    border-radius: 10px;
+    max-width: 375px;
+}
+
+.hero__img {
+    width: 20rem;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    padding: 1em;
+}
+
+.hero__title {
+    font-size: 1.5rem;
+    margin-bottom: 1em;
+}
+
+.hero__txt {
+    font-size: 1.125rem;
+    font-weight: 300;
+    color: lightgray;
+    margin-bottom: 1em;
+}
+
+.center {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.figure {
+    display: flex;
+    justify-content: space-around;
+}
+
+.eth {
+    display: flex;
+    align-self: center;
+    color: cyan;
+    gap: .3rem;
+}
+
+.eth__icon {
+    width: .7em;
+    height: 1rem;
+}
+
+
+.clock {
+    display: flex;
+    gap: .3rem;
+}
+
+
+hr {
+    width: 80%;
+    margin: 1em auto;
+}
+
+.portrait {
+    width: 2rem;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.Jules {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    margin-left: 1.3em;
+    padding: .7em;
+}
+
+.author {
+    font-size: .7rem;
+}
+
+.cyan:hover {
+    color: cyan;
+}
+
+.hero__title:hover {
+    color: cyan;
+}
+
+@media (min-width: 1000px) {
+    .hero {
+        margin: 25% auto;
+    }
+}

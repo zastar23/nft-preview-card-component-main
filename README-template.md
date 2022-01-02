@@ -5,18 +5,11 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Author](https://github.com/zastar23)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
